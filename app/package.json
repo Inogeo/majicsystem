@@ -1,0 +1,19 @@
+{
+  "name": "majicsystem",
+  "version": "0.0.1",
+  "description": "This app is a reuse the etalab/majic repository. It makes easy the processing of ETALAB files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inogeo/majicsystem.git"
+  },
+  "author": "Pierre HARDY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Inogeo/majicsystem/issues"
+  },
+  "homepage": "https://github.com/Inogeo/majicsystem#readme"
+}

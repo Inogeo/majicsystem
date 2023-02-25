@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  majicsystem:
+    container_name: majicsystem
+    entrypoint: sleep infinity
+    build: ./app
+    volumes:
+     - ./app:/home/node/app/
+    ports:
+      - "3000:3000"
